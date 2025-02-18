@@ -1,0 +1,35 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Unreal 5.3 Projects/EmpireOfTheCornfields-main/Content/Camera3/Inputs/MenuWidgets/IA_CivCollapse.uasset",
+				"C:/Unreal 5.3 Projects/EmpireOfTheCornfields-main/Content/Camera3/Inputs/MenuWidgets/IA_ResCollapse.uasset",
+				"C:/Unreal 5.3 Projects/EmpireOfTheCornfields-main/Content/Camera3/Inputs/IMC_Camera3.uasset",
+				"C:/Unreal 5.3 Projects/EmpireOfTheCornfields-main/Content/Camera3/Inputs/MenuWidgets/IA_SiloCollapse.uasset",
+				"C:/Unreal 5.3 Projects/EmpireOfTheCornfields-main/Content/Camera3/Inputs/MenuWidgets/IA_TimeConversion.uasset",
+				"C:/Unreal 5.3 Projects/EmpireOfTheCornfields-main/Content/Camera3/Inputs/MenuWidgets/IA_Decrease.uasset",
+				"C:/Unreal 5.3 Projects/EmpireOfTheCornfields-main/Content/Camera3/Inputs/MenuWidgets/IA_Increase.uasset",
+				"C:/Unreal 5.3 Projects/EmpireOfTheCornfields-main/Content/Camera3/Inputs/MenuWidgets/IA_Pause.uasset",
+				"C:/Unreal 5.3 Projects/EmpireOfTheCornfields-main/Content/Camera3/Inputs/MenuWidgets/IA_BarnSelect.uasset",
+				"C:/Unreal 5.3 Projects/EmpireOfTheCornfields-main/Content/Camera3/BP_CameraPawn3.uasset",
+				"C:/Unreal 5.3 Projects/EmpireOfTheCornfields-main/Content/Building/Widgets/WBP_MainUI.uasset",
+				"C:/Unreal 5.3 Projects/EmpireOfTheCornfields-main/Content/Building/Widgets/WidgetsSubMenus/WBP_ActivitiesMenu.uasset",
+				"C:/Unreal 5.3 Projects/EmpireOfTheCornfields-main/Content/Building/Widgets/WidgetsSubMenus/WBP_ConstructionMenu.uasset",
+				"C:/Unreal 5.3 Projects/EmpireOfTheCornfields-main/Content/TopDown/Blueprints/BP_TopDownController.uasset",
+				"C:/Unreal 5.3 Projects/EmpireOfTheCornfields-main/Content/Camera3/Inputs/MenuWidgets/IA_BuildButtonMenu.uasset",
+				"C:/Unreal 5.3 Projects/EmpireOfTheCornfields-main/Content/Building/Widgets/WidgetsSubMenus/WBP_GameTime.uasset",
+				"C:/Unreal 5.3 Projects/EmpireOfTheCornfields-main/Content/Interface/BP_HERO.uasset",
+				"C:/Unreal 5.3 Projects/EmpireOfTheCornfields-main/Content/Interface/builder.uasset",
+				"C:/Unreal 5.3 Projects/EmpireOfTheCornfields-main/Content/Camera3/Inputs/MenuWidgets/IA_BarCollapse.uasset",
+				"C:/Users/gjdob/Downloads/EmpireOfTheCornfields-main/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
+				"C:/Users/gjdob/Downloads/EmpireOfTheCornfields-main/Content/TopDown/Maps/TopDownMap.umap",
+				"C:/Users/gjdob/Downloads/EmpireOfTheCornfields-main/Content/Camera3/BP_CameraPawn3.uasset",
+				"C:/Users/gjdob/Downloads/EmpireOfTheCornfields-main/Content/Camera3/GMB_Camera3.uasset",
+				"C:/Users/gjdob/Downloads/EmpireOfTheCornfields-main/Content/TopDown/Blueprints/BP_TopDownController.uasset"
+			]
+		}
+	]
+}
